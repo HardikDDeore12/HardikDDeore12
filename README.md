@@ -15,7 +15,7 @@
 
 ### 🧠 Ongoing Projects & Research
 - 📊 **Transformers in Finance** – Risk modeling & forecasting
-- 🧬 **GANs for Microstructure Synthesis** – Enhancing SEM image datasets
+- 🤖 **Android Malware Detection** – Deep learning-based threat classification
 - 🚌 **TicketMitra** – AI-powered museum ticketing chatbot
 - 🚦 **Smart Traffic Management** – ML-based traffic flow prediction using GCNs
 - 💬 **Realtime Chat App (Linkify)** – Built with React.js + Firebase
